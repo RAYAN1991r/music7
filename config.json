@@ -1,11 +1,11 @@
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
+  "TOKEN": "OTUxMDk1Mjg5ODYxNzk1OTQw.Yiiegw.VygvamXinmKUOyiQ_JSjD97WmfA",
+  "YOUTUBE_API_KEY": "GKWWybk_9JNJBafilcU4LZHu4RnWW8MX",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "-",
   "PRUNING": false,
   "LOCALE": "en",
-  "STAY_TIME": 30,
+  "STAY_TIME": 9000000000000000,
   "DEFAULT_VOLUME": 100
 }
